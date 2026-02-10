@@ -1,61 +1,46 @@
-# UHITO NETWORK LICENSE
-## Cyber Man Protection Framework
+# UHITO NETWORK CYBER-MAN LICENSE
+## Cybersecurity Awareness Content
 
 ### COPYRIGHT NOTICE
 © 2026 Uhito Network. All rights reserved.
 
-### PROJECT
-Cyber Man Protection Framework
-
 ### OVERVIEW
-This repository contains original digital protection methodologies, volunteer training systems, and operational security frameworks developed by Uhito Network. While accessible for volunteer use, all content remains exclusive intellectual property of Uhito Network.
+This repository contains original cybersecurity awareness content developed through community research and real-case analysis. This content remains the intellectual property of Uhito Network.
 
 ### PERMITTED USES
 You may:
-1. **Use for Volunteer Protection** – Apply methods to help protect individuals
-2. **Learn and Train** – For personal skill development as a volunteer
-3. **Discuss** – Provide feedback via GitHub Issues
-4. **Reference Existence** – Mention these frameworks exist (with attribution)
-5. **Fork for Personal Use** – Maintain local copies for volunteer work
+1. **Read and Learn** – For personal and community education
+2. **Share Locally** – Distribute to your community in original form
+3. **Discuss** – Comment via GitHub Issues
+4. **Reference** – Mention this awareness program exists
+5. **Use for Non-Profit** – Community workshops, school programs
 
 ### STRICTLY PROHIBITED
 You may NOT:
-1. **Reproduce or Redistribute** – Copy content to other platforms, websites, or repositories
-2. **Create Derivative Works** – Modify, adapt, or build upon these frameworks
-3. **Commercial Use** – Incorporate into paid services, products, or training
-4. **Organizational Implementation** – Use in companies, NGOs, or institutions without permission
-5. **AI/ML Training** – Use to train artificial intelligence models
-6. **Claim Authorship** – Present as your own work
-
-### VOLUNTEER GUIDELINES
-Authorized volunteers may:
-- Apply protection methods in legitimate helping situations
-- Share verbal knowledge with other volunteers
-- Use frameworks to protect at-risk individuals
-- Participate in Cyber Man network activities
+1. **Repackage or Sell** – Create paid courses from this content
+2. **Modify Safety Warnings** – Change or remove risk disclosures
+3. **Claim Creation** – Present as your own work
+4. **Commercial Integration** – Use in for-profit training
+5. **AI Training** – Feed to machine learning models
+6. **Redistribute Modified** – Share altered versions publicly
 
 ### ATTRIBUTION REQUIREMENTS
-When referencing (with permission):
-- **Source**: Uhito Network
-- **Project**: Cyber Man Protection Framework
-- **Link**: Repository URL
-- **License**: Uhito Network License
-
-### PERMISSION REQUESTS
-For any use beyond volunteer application:
-**Email**: Uhitonetwork@gmail.com
+When sharing:
+- **Source**: Uhito Network Cyber-Man Awareness
+- **License**: Uhito Network Cyber-Man License
+- **Warning**: "Contains original safety content - do not modify warnings"
 
 ### ENFORCEMENT
-Violations will result in:
-- Immediate DMCA takedown notices
-- Legal action for infringement
-- Permanent ban from Uhito Network resources
-- Notification to involved organizations
+Violations may result in:
+- Content removal requests
+- Legal notices for commercial misuse
+- Platform reporting
 
-### NO WARRANTY
-Content provided "as is" without guarantees. Use at your own risk.
+### CONTACT
+For permissions beyond this license:
+**uhitonetwork@gmail.com**
 
 ---
 
-*Protecting these methods protects the people they're designed to help.*
-*© 2026 Uhito Network - All Rights Reserved*
+*This license protects community safety messaging integrity.*
+*Copyright © 2026 Uhito Network. All rights reserved.*
