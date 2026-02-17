@@ -97,14 +97,9 @@ Remember:
 
 > *"You didn't fail. The system failed you. Now fight back with evidence."*
 
----
 
-### 🦸 Call a Cyber Man
 
-If you're stuck:
-- 📞 Ask a tech-savvy friend
-- 💬 Join Uhito Network discussions
-- 🛡️ Let us guide you
+
 
 ---
 
