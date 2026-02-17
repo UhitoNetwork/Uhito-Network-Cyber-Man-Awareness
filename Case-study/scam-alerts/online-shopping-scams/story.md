@@ -99,3 +99,12 @@ But from a friend who knew what to do.
 ---
 
 *This story is inspired by real events. Names changed for privacy.*
+
+
+---
+
+## 📚 Navigate This Case
+
+| ⬅️ Previous | 📍 Current | ➡️ Next |
+|-------------|------------|---------|
+| (Start) | **The Story** | [How to Protect](how-to-protect.md) |
