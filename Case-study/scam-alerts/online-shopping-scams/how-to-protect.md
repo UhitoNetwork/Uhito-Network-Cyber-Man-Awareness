@@ -70,3 +70,11 @@ If something feels wrong:
 **🛡️ For Cyber Men of Uhito Network**
 
 *Share this. Protect others.*
+
+---
+
+## 📚 Navigate This Case
+
+| ⬅️ Previous | 📍 Current | ➡️ Next |
+|-------------|------------|---------|
+| [The Story](story.md) | **How to Protect** | [If Scammed](what-to-do-if-scammed.md) |
